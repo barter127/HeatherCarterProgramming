@@ -2504,8 +2504,11 @@
 		.image.icon {
 			display: contain;
 			margin: 0 0 3rem 0;
-			width: 100%;
+			width: 100%;    
+			align-items: center;
+    		gap: 1rem;
 			transition: transform 0.3s ease;
+		
 		}
 
 			.image.icon img {
