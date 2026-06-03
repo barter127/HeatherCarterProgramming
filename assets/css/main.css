@@ -2502,9 +2502,10 @@
 			}
 
 		.image.icon {
-			display: block;
+			display: contain;
 			margin: 0 0 3rem 0;
 			width: 100%;
+			transition: transform 0.3s ease;
 		}
 
 			.image.icon img {
