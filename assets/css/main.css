@@ -2501,6 +2501,17 @@
 				width: 100%;
 			}
 
+		.image.icon {
+			display: block;
+			margin: 0 0 3rem 0;
+			width: 100%;
+		}
+
+			.image.icon img {
+				width: 20%;
+				height: 20%;
+			}
+
 /* List */
 
 	ol {
